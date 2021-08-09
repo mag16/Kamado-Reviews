@@ -1,4 +1,4 @@
-# VUE-DOTNET/C# FullStack Application for Innova Systems International
+# VUE-DOTNET/C# FullStack Application
 
 ## Project setup (CD root of files and:)
 ```
