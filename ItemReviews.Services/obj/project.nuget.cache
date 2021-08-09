@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "A5AQ1svn5sSy4svqlAd66lLMZHUYCasrkph9ra+KSPLrBjRRB6RwJq3A3LuRAHyaVzVLNbf4FY8qDfrBcT3RTw==",
+  "success": true,
+  "projectFilePath": "/Users/marcoguzman/ItemReviews/ItemReviews.Services/ItemReviews.Services.csproj",
+  "expectedPackageFiles": [
+    "/Users/marcoguzman/.nuget/packages/microsoft.entityframeworkcore/5.0.7/microsoft.entityframeworkcore.5.0.7.nupkg.sha512",
+    "/Users/marcoguzman/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.7/microsoft.entityframeworkcore.abstractions.5.0.7.nupkg.sha512",
+    "/Users/marcoguzman/.nuget/packages/microsoft.entityframeworkcore.analyzers/5.0.7/microsoft.entityframeworkcore.analyzers.5.0.7.nupkg.sha512",
+    "/Users/marcoguzman/.nuget/packages/microsoft.entityframeworkcore.relational/5.0.7/microsoft.entityframeworkcore.relational.5.0.7.nupkg.sha512",
+    "/Users/marcoguzman/.nuget/packages/microsoft.extensions.caching.abstractions/5.0.0/microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "/Users/marcoguzman/.nuget/packages/microsoft.extensions.caching.memory/5.0.0/microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
+    "/Users/marcoguzman/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "/Users/marcoguzman/.nuget/packages/microsoft.extensions.dependencyinjection/5.0.1/microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "/Users/marcoguzman/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "/Users/marcoguzman/.nuget/packages/microsoft.extensions.logging/5.0.0/microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "/Users/marcoguzman/.nuget/packages/microsoft.extensions.logging.abstractions/5.0.0/microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "/Users/marcoguzman/.nuget/packages/microsoft.extensions.options/5.0.0/microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "/Users/marcoguzman/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "/Users/marcoguzman/.nuget/packages/npgsql/5.0.7/npgsql.5.0.7.nupkg.sha512",
+    "/Users/marcoguzman/.nuget/packages/npgsql.entityframeworkcore.postgresql/5.0.7/npgsql.entityframeworkcore.postgresql.5.0.7.nupkg.sha512",
+    "/Users/marcoguzman/.nuget/packages/system.collections.immutable/5.0.0/system.collections.immutable.5.0.0.nupkg.sha512",
+    "/Users/marcoguzman/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "/Users/marcoguzman/.nuget/packages/system.diagnostics.diagnosticsource/5.0.1/system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
+    "/Users/marcoguzman/.nuget/packages/system.runtime.compilerservices.unsafe/4.6.0/system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

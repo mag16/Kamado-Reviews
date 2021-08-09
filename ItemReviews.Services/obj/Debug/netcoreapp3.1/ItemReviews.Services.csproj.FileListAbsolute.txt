@@ -1,0 +1,12 @@
+/Users/marcoguzman/ItemReviews/ItemReviews.Services/bin/Debug/netcoreapp3.1/ItemReviews.Services.deps.json
+/Users/marcoguzman/ItemReviews/ItemReviews.Services/bin/Debug/netcoreapp3.1/ItemReviews.Services.dll
+/Users/marcoguzman/ItemReviews/ItemReviews.Services/bin/Debug/netcoreapp3.1/ItemReviews.Services.pdb
+/Users/marcoguzman/ItemReviews/ItemReviews.Services/obj/Debug/netcoreapp3.1/ItemReviews.Services.csprojAssemblyReference.cache
+/Users/marcoguzman/ItemReviews/ItemReviews.Services/obj/Debug/netcoreapp3.1/ItemReviews.Services.AssemblyInfoInputs.cache
+/Users/marcoguzman/ItemReviews/ItemReviews.Services/obj/Debug/netcoreapp3.1/ItemReviews.Services.AssemblyInfo.cs
+/Users/marcoguzman/ItemReviews/ItemReviews.Services/obj/Debug/netcoreapp3.1/ItemReviews.Services.csproj.CoreCompileInputs.cache
+/Users/marcoguzman/ItemReviews/ItemReviews.Services/obj/Debug/netcoreapp3.1/ItemReviews.Services.dll
+/Users/marcoguzman/ItemReviews/ItemReviews.Services/obj/Debug/netcoreapp3.1/ItemReviews.Services.pdb
+/Users/marcoguzman/ItemReviews/ItemReviews.Services/bin/Debug/netcoreapp3.1/ItemReviews.Data.dll
+/Users/marcoguzman/ItemReviews/ItemReviews.Services/bin/Debug/netcoreapp3.1/ItemReviews.Data.pdb
+/Users/marcoguzman/ItemReviews/ItemReviews.Services/obj/Debug/netcoreapp3.1/ItemReviews.Services.csproj.CopyComplete

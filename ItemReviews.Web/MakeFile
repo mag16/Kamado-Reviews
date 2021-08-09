@@ -1,0 +1,14 @@
+# Project Variables
+
+PROJECT_NAME ?= ItemReviews
+
+.PHONY: migrations db hello
+
+migrations:
+	cd ../ItemReviews.Data && dotnet ef --startup-project ../ItemReviews.Web/ migrations add $(mname) $$ cd ..
+
+db:
+	cd ../ItemReviews.Data && dotnet ef --startup-project ../ItemReviews.Web/ database update && cd ..
+
+hello:
+	echo 'hello test'

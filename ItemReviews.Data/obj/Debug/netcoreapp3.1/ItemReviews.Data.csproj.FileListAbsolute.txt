@@ -1,0 +1,9 @@
+/Users/marcoguzman/ItemReviews/ItemReviews.Data/bin/Debug/netcoreapp3.1/ItemReviews.Data.deps.json
+/Users/marcoguzman/ItemReviews/ItemReviews.Data/bin/Debug/netcoreapp3.1/ItemReviews.Data.dll
+/Users/marcoguzman/ItemReviews/ItemReviews.Data/bin/Debug/netcoreapp3.1/ItemReviews.Data.pdb
+/Users/marcoguzman/ItemReviews/ItemReviews.Data/obj/Debug/netcoreapp3.1/ItemReviews.Data.csprojAssemblyReference.cache
+/Users/marcoguzman/ItemReviews/ItemReviews.Data/obj/Debug/netcoreapp3.1/ItemReviews.Data.AssemblyInfoInputs.cache
+/Users/marcoguzman/ItemReviews/ItemReviews.Data/obj/Debug/netcoreapp3.1/ItemReviews.Data.AssemblyInfo.cs
+/Users/marcoguzman/ItemReviews/ItemReviews.Data/obj/Debug/netcoreapp3.1/ItemReviews.Data.csproj.CoreCompileInputs.cache
+/Users/marcoguzman/ItemReviews/ItemReviews.Data/obj/Debug/netcoreapp3.1/ItemReviews.Data.dll
+/Users/marcoguzman/ItemReviews/ItemReviews.Data/obj/Debug/netcoreapp3.1/ItemReviews.Data.pdb
